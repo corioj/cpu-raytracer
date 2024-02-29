@@ -1,0 +1,12 @@
+randomreminders.txt
+
+stuff to remember when ur doing this project...
+
+set up
+cmake -B build
+
+rebuild every new image or code change
+cmake --build build
+
+running in terminal involves using CMake, remember using the command
+build/inOneWeekend > image.ppm
